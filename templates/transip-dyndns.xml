@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Container version="2">
+  <Date>2019-06-20</Date>
+  <Beta>False</Beta>
+  <Category>MediaApp:Video MediaApp:Music MediaApp:Photos MediaServer:Video MediaServer:Music MediaServer:Photos</Category>
+  <Name>PlexMediaServer</Name>
+  <Project>https://plex.tv/</Project>
+  <Changes>
+[center][font size=4]TransIP DynDNS Changelog[/font][/center]
+
+[font size=3]2020.09.08[/font]
+- Initial Release
+  </Changes>
+  <Overview>
+    Forked script from GitHub. This script polls your IP address and updates your DNS records in TransIP via their API.
+  </Overview>
+  <Description>
+  </Description>
+  <Registry>https://registry.hub.docker.com/u/klokmeister/transip-dyndns/</Registry>
+  <GitHub>https://github.com/SxMT/transip-dyndns</GitHub>
+  <Repository>SxMT/transip-dyndns</Repository>
+  <Support></Support>
+  <BindTime>false</BindTime>
+  <Privileged>false</Privileged>
+  <Network>bridge</Network>
+  <Environment/>
+  <WebUI></WebUI>
+  <Banner></Banner>
+  <Icon></Icon>
+</Container>
