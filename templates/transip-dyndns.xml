@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container version="2">
-  <Date>2019-06-20</Date>
+  <Date>2020-09-10</Date>
   <Beta>False</Beta>
-  <Category>MediaApp:Video MediaApp:Music MediaApp:Photos MediaServer:Video MediaServer:Music MediaServer:Photos</Category>
-  <Name>PlexMediaServer</Name>
-  <Project>https://plex.tv/</Project>
+  <Category>Tools:Productivity</Category>
+  <Name>TransIP DynDNS</Name>
+  <Project></Project>
   <Changes>
 [center][font size=4]TransIP DynDNS Changelog[/font][/center]
 
