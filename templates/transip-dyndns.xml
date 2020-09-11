@@ -17,8 +17,8 @@
   <Description>
   </Description>
   <Registry>https://registry.hub.docker.com/u/klokmeister/transip-dyndns/</Registry>
-  <GitHub>https://github.com/SxMT/transip-dyndns</GitHub>
-  <Repository>SxMT/transip-dyndns</Repository>
+  <GitHub>https://github.com/sxmt/transip-dyndns</GitHub>
+  <Repository>sxmt/transip-dyndns</Repository>
   <Support></Support>
   <BindTime>false</BindTime>
   <Privileged>false</Privileged>
