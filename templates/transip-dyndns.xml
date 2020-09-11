@@ -22,9 +22,9 @@
   <Support></Support>
   <BindTime>false</BindTime>
   <Privileged>false</Privileged>
-  <Network>bridge</Network>
-  <Config Name="TRANSIP_LOGIN" Target="TRANSIP_LOGIN" Default="" Mode="" Description="transip-username" Type="Variable" Display="always" Required="true" Mask="false"></Config>
-  <Config Name="TRANSIP_PRIVATE_KEY" Target="TRANSIP_PRIVATE_KEY" Default="" Mode="" Description="path to secrets file" Type="Variable" Display="always" Required="true" Mask="false"></Config>
+  <Network>bridge</Network>         
+  <Config Name="TRANSIP_LOGIN" Target="TRANSIP_LOGIN" Default="" Mode="" Description="transip username" Type="Variable" Display="always" Required="true" Mask="false"></Config>
+  <Config Name="TRANSIP_PRIVATE_KEY" Target="TRANSIP_PRIVATE_KEY" Default="" Mode="" Description="path to secrets file" Type="Path" Display="always" Required="true" Mask="false"></Config>
   <Config Name="TRANSIP_DOMAIN" Target="TRANSIP_DOMAIN" Default="" Mode="" Description="domain without protocol (example.nl)" Type="Variable" Display="always" Required="true" Mask="false"></Config>
   <Config Name="TRANSIP_DNS_RECORD" Target="TRANSIP_DNS_RECORD" Default="" Mode="" Description="name of the dns record to update" Type="Variable" Display="always" Required="true" Mask="false"></Config>
   <Banner></Banner>
